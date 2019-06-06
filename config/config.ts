@@ -72,6 +72,7 @@ export default {
   block: {
     defaultGitUrl: 'https://github.com/ant-design/pro-blocks',
   },
+  treeShaking: true,
   hash: true,
   targets: {
     ie: 11,
